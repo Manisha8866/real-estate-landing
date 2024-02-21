@@ -1,0 +1,64 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+section {
+  padding: 50px 0;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-size: 50px;
+}
+.contact {
+  background-color: #fa8f87;
+}
+input {
+  width: 50%;
+}
+.ho {
+  background-color: rgb(224, 121, 178);
+  margin-right: 70px;
+  text-align: center;
+  font-style: italic;
+}
+.form-control {
+  width: 100%;
+}
+.po {
+  margin-top: 50px;
+  color: red;
+}
+p {
+  font-style: oblique;
+}
+img {
+  width: 250px;
+
+  margin-bottom: 50px;
+}
+.btn {
+  margin-top: 40px;
+}
+.contact-form {
+  border-radius: 10%;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  width: 550px;
+  padding: 30px;
+  background-color: #d9afd9;
+}
+
